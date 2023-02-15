@@ -1,2 +1,1 @@
-Veronika
-Automation QA
+V.K.
